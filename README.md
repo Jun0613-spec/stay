@@ -46,7 +46,7 @@ VITE_STRIPE_PUB_KEY=
 
 Backend
 
-DATABASE_URL="mongodb+srv://test:test1234@cluster0.16cdc.mongodb.net/stay"
+DATABASE_URL=
 
 CLIENT_URL=
 
